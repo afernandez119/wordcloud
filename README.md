@@ -7,6 +7,5 @@ Artículo completo publicado en [Medium - Nube de palabra WordCloud con Python](
 
 <img src="https://github.com/afernandez119/wordcloud/blob/main/img/python_color.png" alt="drawing" width="500"/>
 
-
 ---
 
